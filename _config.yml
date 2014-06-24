@@ -1,3 +1,5 @@
-name: Your New Jekyll Site
+name: Wolfgang的博客
 markdown: redcarpet
 pygments: true
+encoding: utf-8
+timezone: CN
